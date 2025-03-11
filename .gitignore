@@ -1,0 +1,8 @@
+/data/*
+!/data
+/pre_weights/*
+!/pre_weights/
+/output/*
+!/output/
+/predict_image/*
+!/predict_image/
